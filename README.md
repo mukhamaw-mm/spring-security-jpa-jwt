@@ -1,4 +1,4 @@
-# spring-security-jpa-jwt
+# spring-security-sample-jpa-jwt
 
 This is the sample backend microservice project for Spring Boot + Spring Security + Spring Data JPA + MySQL application
 
