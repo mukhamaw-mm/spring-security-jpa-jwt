@@ -24,11 +24,11 @@ This project is built with
 ### 🥡 Clone Project
 * Clone the repo
    ```sh
-   git clone https://github.com/mukhamaw-mm/spring-security-jpa-jwt
+   git clone https://github.com/mukhamaw-mm/spring-security-sample-jpa-jwt
 
 
 <a name="contact"></a>
 ## ✉️ Contact
 Name - Mu Kham Aw <br> LinkedIn profile -  [Mu Kham Aw's LinkedIn](https://www.linkedin.com/in/mu-kham-aw-b12860196/)  <br> Email Address - mukhamaw@gmail.com
 
-Project Link: [Sample Spring Security JPA JWT](https://github.com/mukhamaw-mm/spring-security-jpa-jwt)
+Project Link: [Sample Spring Security JPA JWT](https://github.com/mukhamaw-mm/spring-security-sample-jpa-jwt)
