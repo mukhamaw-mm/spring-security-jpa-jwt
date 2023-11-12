@@ -1,3 +1,9 @@
+<h1 align="center">
+  Overview
+  <img src="https://github.com/yewin-mm/spring-security-jpa-jwt/blob/master/github/template/images/overview/Spring_Security_JPA_JWT.png" /><br/>
+</h1>
+
+
 # spring-security-sample-jpa-jwt
 
 This is the sample backend microservice project for Spring Boot + Spring Security + Spring Data JPA + MySQL application
