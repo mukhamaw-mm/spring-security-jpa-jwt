@@ -1,6 +1,6 @@
 <h1 align="center">
   Overview
-  <img src="https://github.com/yewin-mm/spring-security-jpa-jwt/blob/master/github/template/images/overview/Spring_Security_JPA_JWT.png" /><br/>
+  <img src="https://github.com/mukhamaw-mm/spring-security-sample-jpa-jwt/edit/master/" /><br/>
 </h1>
 
 
