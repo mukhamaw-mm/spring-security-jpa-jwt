@@ -1,5 +1,4 @@
-<h1 align="center">
-  Overview
+<h1 align="center"> 
   <img src="https://github.com/mukhamaw-mm/spring-security-sample-jpa-jwt/blob/master/photo.png"><br/>
 </h1>
 
